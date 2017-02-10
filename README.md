@@ -10,13 +10,15 @@ First we will try to describe what the system must be capable of.
 #requirements
 
 * register a glider flight
-1.  glider immatriculation
-2.  pilot('s) names
-3.  takeoff/landing times
-4.  type of flight (according to ATO specs, see below)
-5.  handling of tickets 
+
+...glider immatriculation
+...pilot('s) names
+...takeoff/landing times
+...type of flight (according to ATO specs, see below)
+...handling of tickets
+ 
 * work offline (data connection in the field is not good)
-* look-alike the old system, less training needed
+* look like the old system, less training needed
 * adapt some ATO requirements (see below)
 * upload all data to the website (SOAP connection)
  
