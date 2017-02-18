@@ -22,13 +22,13 @@ First we will try to describe what the system must be capable of.
   * check of take-off and landing times
   * 
 * work offline (data connection in the field is not good)
-* look like the old system, less training needed
 * upload all data to the website (SOAP interface)
  
 
 #new requirements (new system)
 
-1. type of flight according to ATO specs 
+1. look like the old system, less training needed
+1. type of flight according to [ATO specs](fcl_05_vluchttypes_functie_bemanning.pdf) 
 2. check if a pilot is green (ok to fly, fly solo, fly with passengers, etc)
 3. check if a glider is green (arc ok, insurance ok, ...)
 4. extra checks for ticketing system?
